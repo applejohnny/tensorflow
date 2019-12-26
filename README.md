@@ -2,6 +2,9 @@
 
 Go wrapper on tensorflow with go mod support
 
-Tags is corresponding to tensorflow version it depends on
+**You need [tensorflow](https://github.com/tensorflow/tensorflow) installed in include paths** to get this package work
 
-/v2 - corresponds to v2.\*.\* tensorflow versions 
+Versioning:  
+`vx.y.z-a` - corresponds to `vx.y.z` tensorflow version, and `a` is a local version part 
+
+`/v2` - corresponds to v2.\*.\* tensorflow versions 
