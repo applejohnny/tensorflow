@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"runtime/debug"
 
-	tf "github.com/applejohnny/tensorflow"
+	tf "github.com/applejohnny/tensorflow/v2"
 )
 
 // Scope encapsulates common operation properties when building a Graph.

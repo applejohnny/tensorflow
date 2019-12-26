@@ -26,7 +26,7 @@ limitations under the License.
 package op
 
 import (
-	tf "github.com/applejohnny/tensorflow"
+	tf "github.com/applejohnny/tensorflow/v2"
 )
 
 // Const adds an operation to graph that produces value as output.

@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"testing"
 
-	tf "github.com/applejohnny/tensorflow"
+	tf "github.com/applejohnny/tensorflow/v2"
 )
 
 func TestScopeSubScope(t *testing.T) {

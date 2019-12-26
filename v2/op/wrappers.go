@@ -20,7 +20,7 @@
 
 package op
 
-import tf "github.com/applejohnny/tensorflow"
+import tf "github.com/applejohnny/tensorflow/v2"
 
 // optionalAttr is an intentionally un-exported type to hide
 // details of how optional attributes to operations are implemented.

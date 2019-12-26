@@ -20,7 +20,7 @@ import (
 	"strings"
 	"testing"
 
-	tf "github.com/applejohnny/tensorflow"
+	tf "github.com/applejohnny/tensorflow/v2"
 )
 
 func TestAddGradients(t *testing.T) {
